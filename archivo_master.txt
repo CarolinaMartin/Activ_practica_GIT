@@ -1,3 +1,1 @@
 Se va a crear un archivo llamamado 'archivo_master.txt' en la rama maestra
-
-Modificamos los errores del archivo_master.txt
